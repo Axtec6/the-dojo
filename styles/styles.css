@@ -1,9 +1,9 @@
 html {
     background-color: rgb(66, 146, 238);
     font-family: Helvetica;
-}
-
-h1 {
+  }
+  
+  h1 {
     font-size: 4.5em;
     text-align: center;
     color: white;
@@ -11,4 +11,5 @@ h1 {
     text-transform: uppercase;
     text-shadow: 4px 4px 4px black;
     letter-spacing: 3px;
-}
+  }
+  
